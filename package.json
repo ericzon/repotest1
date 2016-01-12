@@ -1,0 +1,22 @@
+{
+  "name": "repotest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericzon/repotest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericzon/repotest1/issues"
+  },
+  "homepage": "https://github.com/ericzon/repotest1#readme"
+}
