@@ -1,4 +1,4 @@
 Just playing with Jenkins :)
 ============================
 
-[![Build Status](http://ondho.dnsalias.com:50002/buildStatus/icon?job=Mi%20Freestyle%20project&build=11)](http://ondho.dnsalias.com:50002/job/Mi%20Freestyle%20project/11/)
+[![Build Status](http://ondho.dnsalias.com:50002/buildStatus/icon?job=My_Freestyle_project)](http://ondho.dnsalias.com:50002/job/My_Freestyle_project/)
